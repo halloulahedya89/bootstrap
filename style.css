@@ -1,0 +1,67 @@
+.cover{
+    background-size: cover;
+   
+}
+.rounded-circle{
+    vertical-align: middle;
+    text-align: center;
+}
+.pic{
+    width: 200px;
+    position: relative;
+    top: -100px;
+    margin: auto;
+    display: block;
+    border-radius: 50%;
+    box-shadow: 0 0 5px rgba(0, 0, 0, .5);  
+}
+.name{
+    text-align: center;
+    font-weight: bold;
+}
+.name:hover{
+    text-decoration: underline;
+
+
+}.jobposition{
+    text-align: center;
+    color: #666;
+    font-size: 1.2em;
+}
+
+
+.fab{
+    color: blue;
+}
+.fab:hover{
+    color:gray
+}
+.row{
+    margin-left: 90px;
+}
+
+.bar{
+    text-align: center;
+}
+.title{
+    margin-bottom:
+    margin-top:
+    margin-left:
+    color: #2196F3;
+}
+
+
+.img-responsive{
+    margin-top:
+    margin-left:
+}
+.fa fa-4x fa-bath{
+    margin-left: 70px;
+}
+body{
+    margin-bottom: 150px;
+}
+.fa-4x:hover{
+    transition: 0.5s;
+    transform: rotate(360deg);
+}
